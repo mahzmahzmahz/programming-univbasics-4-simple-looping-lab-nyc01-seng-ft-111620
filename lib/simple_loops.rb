@@ -20,8 +20,8 @@ def output_array(array)
   end
 end
 
-def return_string_array
-  for i in return_string_array do 
+def return_string_array(array)
+  for i in array.each do 
     i.to_s
 end
 end
