@@ -1,3 +1,7 @@
 # Write your methods here
 
-loop_message_five_times
+def loop_message_five_times
+  counter = 1
+  loop do
+    puts ""
+  
