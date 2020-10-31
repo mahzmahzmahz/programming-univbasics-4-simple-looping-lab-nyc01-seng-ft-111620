@@ -21,10 +21,8 @@ def output_array(array)
 end
 
 def return_string_array(array)
-  array.each {|i|
-    i.to_s
-end
-array.split
+  array.each {|i| i.to_s}
+  array.split
 end
 
   
