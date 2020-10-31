@@ -23,7 +23,6 @@ end
 def return_string_array(array)
   for i in array.each do 
     i.to_s
-    i.push("")
 end
 end
   
