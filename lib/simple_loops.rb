@@ -15,7 +15,7 @@ end
 def output_array(array)
   counter = 0 
   while array[counter] do
-    print array[counter]
+    p array[counter]
     counter += 1 
   end
 end
