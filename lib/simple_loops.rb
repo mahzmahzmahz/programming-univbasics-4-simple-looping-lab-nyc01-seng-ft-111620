@@ -22,7 +22,7 @@ end
 
 def return_string_array(array)
   array.each {|i| i.to_s}
-  array_new = [array]
+  array_new = ["#{array[0]}","#{array[0]}"]
   array_new
 end
 
