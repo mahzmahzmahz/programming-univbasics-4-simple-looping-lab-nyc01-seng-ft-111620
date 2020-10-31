@@ -21,7 +21,7 @@ def output_array(array)
 end
 
 def return_string_array(array)
-  for i in array.each do 
+  for i in return_string_array do 
     i.to_s
 end
 end
