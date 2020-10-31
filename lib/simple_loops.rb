@@ -25,7 +25,7 @@ def return_string_array(array)
     i.to_s
 end
 array.split(",")
-  
+end
 
   
   
