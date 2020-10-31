@@ -20,7 +20,7 @@ def output_array(array)
   end
 end
 
-def return_string_array(array)
+def return_string_array
   for i in return_string_array do 
     i.to_s
 end
