@@ -1,9 +1,8 @@
 # Write your methods here
 
 def loop_message_five_times(array)
-  counter = 0 
-  while array 
-    puts "Hello World."
+  5.times do
+   puts "Hello World."
   end
 end
 
