@@ -6,9 +6,9 @@ def loop_message_five_times(array)
   end
 end
 
-def loop_message_n_times(string, n)
-  n.times do
-    puts "Hello Moon."
+def loop_message_n_times(message, number)
+  number.times do
+    puts message
   end
 end
 
