@@ -23,7 +23,9 @@ end
 def return_string_array(array)
   array.each do |i|
     i.to_s
+    i.split 
 end
+
 end
   
 
